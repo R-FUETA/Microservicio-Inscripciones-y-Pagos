@@ -1,4 +1,4 @@
-package com.edutechms1.edutechms1;
+package com.edutech_innovators_spa.cl.edutech_innovators_spa.inscripciones;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
